@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412412801514",
+    "project_id": "testadnroid-b2c24",
+    "storage_bucket": "testadnroid-b2c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412412801514:android:a95920197f29c3d1718293",
+        "android_client_info": {
+          "package_name": "com.example.testadnroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412412801514-2jn05n0cvn8gq72kejrr88j7elc6bsr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YMw-EMegSribwrZPwzDvWe5tANu8iBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412412801514-2jn05n0cvn8gq72kejrr88j7elc6bsr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
